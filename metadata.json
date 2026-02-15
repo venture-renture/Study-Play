@@ -1,0 +1,5 @@
+{
+  "name": "Study Play",
+  "description": "A lightweight, ad-free music player for students that streams MP3s directly from a dedicated Google Drive folder.",
+  "requestFramePermissions": []
+}
